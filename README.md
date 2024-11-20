@@ -1,4 +1,4 @@
-<samp><b>Hi there, I'm Izan, a ~~singer~~ **`Network & Systems Administrator`**.</b>b></samp>
+<samp><b>Hi there, I'm Izan, a ~~singer~~ **`Network & Systems Administrator`**.</b></samp>
 
 
 <p align="left">
