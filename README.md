@@ -1,7 +1,6 @@
 ##   
-<span style="font-family: 'Courier New', monospace; font-size: 24px; color: #4CAF50;">
-Hi there, I'm Izan, a ~~singer~~ **<code>programmer</code>**.
-</span>
+Hi there, I'm Izan, a ~~singer~~ **`programmer`**.
+
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
