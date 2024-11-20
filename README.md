@@ -1,4 +1,8 @@
-# 👋 Hi, I'm **Izan Lozano** 
+##   
+<span style="font-family: 'Courier New', monospace; font-size: 24px; color: #4CAF50;">
+Hi there, I'm Izan, a ~~singer~~ **programmer**.
+</span>
+
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
@@ -12,9 +16,8 @@
   <a href="https://www.linkedin.com/in/izanlozano" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://open.spotify.com/intl-es/artist/1hSW0fGEl6NnWyHfW1CZ95" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="40" height="40"/>
-  </a>
 </p>
+
+
 
 
