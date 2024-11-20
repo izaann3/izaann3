@@ -1,6 +1,6 @@
 ##   
 <span style="font-family: 'Courier New', monospace; font-size: 24px; color: #4CAF50;">
-Hi there, I'm Izan, a ~~singer~~ **programmer**.
+Hi there, I'm Izan, a ~~singer~~ **<code>programmer</code>**.
 </span>
 
 <p align="left">
@@ -12,7 +12,7 @@ Hi there, I'm Izan, a ~~singer~~ **programmer**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
-  <a href="https://www.linkedin.com/in/izanlozano" target="_blank">
+  <a href="https://www.linkedin.com/in/izlozano/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://open.spotify.com/intl-es/artist/1hSW0fGEl6NnWyHfW1CZ95" target="_blank">
