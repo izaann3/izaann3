@@ -1,8 +1,7 @@
 <!-- Profile -->
 <p align="center">
-  <b>
+    ## 
     Hi there, I'm Izan, a ~~singer~~ **`programmer`**.
-  </b>
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Izan+%2C+a+%7E%7Esinger%7E%7E+%60programmer%60">
 </p>
