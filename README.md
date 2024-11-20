@@ -1,5 +1,5 @@
 ##   
-Hi there, I'm Izan, a ~~singer~~ **`programmer`**.
+Hi there, I'm Izan, a ~~singer~~ **`Network & Systems Administrator`**.
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -7,7 +7,8 @@ Hi there, I'm Izan, a ~~singer~~ **`programmer`**.
   </a>
 </p>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1hSW0fGEl6NnWyHfW1CZ95?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[Escucha mi música en Spotify](https://open.spotify.com/intl-es/artist/1hSW0fGEl6NnWyHfW1CZ95?utm_source=generator)
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
