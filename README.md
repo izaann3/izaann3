@@ -29,4 +29,8 @@
 
 <details>
 <summary><samp><b>More Info</b></samp></summary>
+</details>
 
+<p align="center">
+</samp><b>Check out my repos ⬇️ </b>b></samp> 
+</p>
