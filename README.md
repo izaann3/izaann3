@@ -1,7 +1,5 @@
 ##   
-<p align="center">
-  Hi there, I'm Izan, a ~~singer~~ **`programmer`**.
-</p>
+Hi there, I'm Izan, a ~~singer~~ **`programmer`**.
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -27,5 +25,6 @@
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBC
+<br>
 
 
