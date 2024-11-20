@@ -12,7 +12,6 @@
     </br>
 </p>
 
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/>
@@ -33,7 +32,13 @@
 ```python
 # Copyright (c) 2024 Izan Lozano. All rights reserved.
 ```
-
+<p align="center">
+  <samp>
+  <a href="#--------">
+    <img src="https://komarev.com/ghpvc/?username=laasso&label=Profile+Views&color=grey" alt="profile views" /> 
+  </a>
+  </samp>
+</p>
 </details>
 
 <p align="center">
