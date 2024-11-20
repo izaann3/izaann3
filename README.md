@@ -1,6 +1,6 @@
-<p align="center">
-  ## Hi there, I'm Izan, a ~~singer~~ **`Network & Systems Administrator`**.
-</p>
+## 
+Hi there, I'm Izan, a ~~singer~~ **`Network & Systems Administrator`**.
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
