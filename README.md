@@ -1,15 +1,13 @@
-##   
-Hi there, I'm Izan, a ~~singer~~ **`programmer`**.
-
+<!-- Profile -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Izan+%2C+a+%7E%7Esinger%7E%7E+%60programmer%60">
-  </a>
+  <b>
+    Hi there, I'm Izan, a ~~singer~~ **`programmer`**.
+  </b>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Izan+%2C+a+%7E%7Esinger%7E%7E+%60programmer%60">
 </p>
 
-
-<br>
-
+<!-- Icons -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/>
@@ -26,3 +24,4 @@ Hi there, I'm Izan, a ~~singer~~ **`programmer`**.
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="40" height="40"/>
   </a>
 </p>
+
