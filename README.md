@@ -32,5 +32,5 @@
 </details>
 
 <p align="center">
-</samp><b>Check out my repos ⬇️ </b></samp> 
+<samp><b>Check out my repos ⬇️ </b></samp> 
 </p>
