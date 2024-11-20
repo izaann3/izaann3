@@ -1,6 +1,14 @@
 ##   
 Hi there, I'm Izan, a ~~singer~~ **`programmer`**.
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Izan+%2C+a+%7E%7Esinger%7E%7E+%60programmer%60">
+  </a>
+</p>
+
+
+<br>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
