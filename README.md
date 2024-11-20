@@ -1,17 +1,14 @@
+<samp><b>Hi there, I'm Izan, a ~~singer~~ **`Network & Systems Administrator`**.</b>b></samp>
 
 
-<p align="center">
-<samp>Hi there, I'm Izan, a ~~singer~~ **`Network & Systems Administrator`**.</samp>
-</p>
-
-<p align="center">
+<p align="left">
   <a href="https://open.spotify.com/intl-es/artist/1hSW0fGEl6NnWyHfW1CZ95" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Click+to+be+redirected+to+my+Spotify">
   </a>
 </p>
 
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/1920px-Cisco_logo_blue_2016.svg.png" alt="Cisco Packet Tracer" width="80" height="40"/>
