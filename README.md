@@ -29,13 +29,9 @@
 
 <details>
 <summary><samp><b>More Info</b></samp></summary>
-
-## Simulating Python Terminal
-
 ```python
 # Copyright (c) 2024 Izan Lozano. All rights reserved.
 ```
-
 </details>
 
 <p align="center">
