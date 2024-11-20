@@ -30,5 +30,3 @@
 <details>
 <summary><samp><b>More Info</b></samp></summary>
 
-
-![Visits Badge](https://badges.pebblehost.com/website/visits/username)
