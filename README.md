@@ -24,7 +24,3 @@ Hi there, I'm Izan, a ~~singer~~ **`programmer`**.
   </a>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBC
-<br>
-
-
