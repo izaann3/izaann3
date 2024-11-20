@@ -25,4 +25,5 @@ Hi there, I'm Izan, a ~~singer~~ **`Network & Systems Administrator`**.
   </a>
 </p>
 
+<details>
 <summary><samp><b>More Info</b></samp></summary>
