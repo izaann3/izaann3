@@ -7,9 +7,7 @@ Hi there, I'm Izan, a ~~singer~~ **`programmer`**.
   </a>
 </p>
 
-<p align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1hSW0fGEl6NnWyHfW1CZ95?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</p>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1hSW0fGEl6NnWyHfW1CZ95?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
