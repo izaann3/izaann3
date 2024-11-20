@@ -1,9 +1,12 @@
-<samp><b>Hi there, I'm Izan, a ~~singer~~ **`Network & Systems Administrator`**.</b></samp>
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Izan+%2C+a+%7E%7Esinger%7E%7E+%60programmer%60">
+<samp>Hi there, I'm Izan, a ~~singer~~ **`Network & Systems Administrator`**.</samp>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/intl-es/artist/1hSW0fGEl6NnWyHfW1CZ95" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Click+to+be+redirected+to+my+Spotify">
   </a>
 </p>
 
@@ -19,9 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
   <a href="https://www.linkedin.com/in/izlozano/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://open.spotify.com/intl-es/artist/1hSW0fGEl6NnWyHfW1CZ95" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="40" height="40"/>
   </a>
 </p>
 
