@@ -1,10 +1,9 @@
 <samp><b>Hi there, I'm Izan, a ~~singer~~ **`Network & Systems Administrator`**.</b></samp>
 
-
 <p align="left">
-  <a href="https://open.spotify.com/intl-es/artist/1hSW0fGEl6NnWyHfW1CZ95" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Click+to+be+redirected+to+my+Spotify">
-  </a>
+<a href="https://open.spotify.com/intl-es/artist/1hSW0fGEl6NnWyHfW1CZ95" target="_blank">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Click+to+be+redirected+to+my+Spotify">
+</a>
 </p>
 
 
