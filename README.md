@@ -1,8 +1,5 @@
+<samp><b>Hi there, I'm Izan, a ~~singer~~ **`Network & Systems Administrator`**.</b></samp>
 
-
-<p align="center">
-<samp>Hi there, I'm Izan, a ~~singer~~ **`Network & Systems Administrator`**.</samp>
-</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
