@@ -7,8 +7,6 @@ Hi there, I'm Izan, a ~~singer~~ **`Network & Systems Administrator`**.
   </a>
 </p>
 
-[Escucha mi música en Spotify](https://open.spotify.com/intl-es/artist/1hSW0fGEl6NnWyHfW1CZ95?utm_source=generator)
-
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
@@ -27,3 +25,4 @@ Hi there, I'm Izan, a ~~singer~~ **`Network & Systems Administrator`**.
   </a>
 </p>
 
+<summary><samp><b>More Info</b></samp></summary>
