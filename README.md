@@ -26,6 +26,10 @@
   </a>
 </p>
 
+<p align="center">
+[![Escucha en Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1hSW0fGEl6NnWyHfW1CZ95?utm_source=generator)
+</p>
+
 <details>
 <summary><samp><b>More Info</b></samp></summary>
   
@@ -44,5 +48,3 @@
 <p align="center">
 <samp><b>Check out my repos ⬇️ </b></samp> 
 </p>
-
-[![Escucha en Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1hSW0fGEl6NnWyHfW1CZ95?utm_source=generator)
