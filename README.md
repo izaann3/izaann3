@@ -26,13 +26,6 @@
   </a>
 </p>
 
-<div align="center">
-  <a href="https://open.spotify.com/artist/1hSW0fGEl6NnWyHfW1CZ95?utm_source=generator">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Escucha en Spotify">
-  </a>
-</div>
-
-
 <details>
 <summary><samp><b>More Info</b></samp></summary>
   
