@@ -3,7 +3,7 @@
     <b>
       Hi there
     <br>
-      I am Izan, a Network and Systems Administrator. In my free time I like to make music. Have you heard my songs yet? 
+      I´m Izan, a Network and Systems Administrator. In my free time I like to make music. Have you heard my songs yet? 
     </b>
     <br>
       <a href="https://open.spotify.com/intl-es/artist/1hSW0fGEl6NnWyHfW1CZ95" target="_blank">
