@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://www.izeta3.com" target="_blank">
-    <img src="img/logoizeta.png" alt="izeta3" width="100" height="100"/>
+    <img src="img/logoizeta.png" alt="izeta3" width="200" style="max-width: 100%; height: auto;"/>
   </a>
 </p>
 
