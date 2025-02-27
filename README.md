@@ -3,7 +3,7 @@
     <b>
       Hi there
     <br>
-      I´m Izan, a Network and Systems Administrator and creator of izeta3.com. In my free time I like to make music. Have you heard my songs yet? 
+      I'm Izan, a Cybersecurity Analyst, Network and Systems Administrator, and creator of izeta3.com. In my free time, I like to make music. Have you heard my songs yet? 
     </b>
     <br>
       <a href="https://open.spotify.com/intl-es/artist/1hSW0fGEl6NnWyHfW1CZ95" target="_blank">
@@ -24,6 +24,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
   <a href="https://www.linkedin.com/in/izlozano/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.izeta3.com" target="_blank">
+    <img src="img/logoizeta.png" alt="izeta3" width="100" height="100"/>
   </a>
 </p>
 
