@@ -3,7 +3,7 @@
     <b>
       Hi there
     <br>
-      I'm Izan, a Cybersecurity Analyst, Network and Systems Administrator, and creator of izeta3.com. In my free time, I like to make music. Have you heard my songs yet? 
+      I'm Izan, a Cybersecurity Analyst, Security Operator , and creator of izeta3.com. In my free time, I like to make music. Have you heard my songs yet? 
     </b>
     <br>
       <a href="https://open.spotify.com/intl-es/artist/1hSW0fGEl6NnWyHfW1CZ95" target="_blank">
